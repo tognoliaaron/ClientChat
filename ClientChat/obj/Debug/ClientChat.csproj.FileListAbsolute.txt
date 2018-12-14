@@ -1,0 +1,78 @@
+C:\Users\tognoli.14161\Desktop\ProvaConnessione\ClientChat\ClientChat\bin\Debug\ClientChat.exe.config
+C:\Users\tognoli.14161\Desktop\ProvaConnessione\ClientChat\ClientChat\obj\Debug\ClientChat.csprojResolveAssemblyReference.cache
+C:\Users\tognoli.14161\Desktop\ProvaConnessione\ClientChat\ClientChat\obj\Debug\ClientChat.Form1.resources
+C:\Users\tognoli.14161\Desktop\ProvaConnessione\ClientChat\ClientChat\obj\Debug\ClientChat.Properties.Resources.resources
+C:\Users\tognoli.14161\Desktop\ProvaConnessione\ClientChat\ClientChat\obj\Debug\ClientChat.csproj.GenerateResource.Cache
+C:\Users\tognoli.14161\Desktop\ProvaConnessione\ClientChat\ClientChat\bin\Debug\ClientChat.exe
+C:\Users\tognoli.14161\Desktop\ProvaConnessione\ClientChat\ClientChat\bin\Debug\ClientChat.pdb
+C:\Users\tognoli.14161\Desktop\ProvaConnessione\ClientChat\ClientChat\obj\Debug\ClientChat.exe
+C:\Users\tognoli.14161\Desktop\ProvaConnessione\ClientChat\ClientChat\obj\Debug\ClientChat.pdb
+C:\Users\tognoli.14161\Desktop\ProvaConnessione\ClientChat\ClientChat\obj\Debug\ClientChat.Chat.resources
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat\ClientChat\obj\Debug\ClientChat.csprojResolveAssemblyReference.cache
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat\ClientChat\obj\Debug\ClientChat.Chat.resources
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat\ClientChat\obj\Debug\ClientChat.Form1.resources
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat\ClientChat\obj\Debug\ClientChat.Properties.Resources.resources
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat\ClientChat\obj\Debug\ClientChat.csproj.GenerateResource.Cache
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat\ClientChat\obj\Debug\ClientChat.csproj.CoreCompileInputs.cache
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat\ClientChat\obj\Debug\ClientChat.exe
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat\ClientChat\obj\Debug\ClientChat.pdb
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat\ClientChat\bin\Debug\ClientChat.exe.config
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat\ClientChat\bin\Debug\ClientChat.exe
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat\ClientChat\bin\Debug\ClientChat.pdb
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ClientChat\ClientChat\bin\Debug\ClientChat.exe.config
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ClientChat\ClientChat\obj\Debug\ClientChat.exe
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ClientChat\ClientChat\obj\Debug\ClientChat.pdb
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ClientChat\ClientChat\bin\Debug\ClientChat.exe
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ClientChat\ClientChat\bin\Debug\ClientChat.pdb
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ClientChat\ClientChat\obj\Debug\ClientChat.Chat.resources
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ClientChat\ClientChat\obj\Debug\ClientChat.Form1.resources
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ClientChat\ClientChat\obj\Debug\ClientChat.Properties.Resources.resources
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ClientChat\ClientChat\obj\Debug\ClientChat.csproj.GenerateResource.Cache
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ClientChat2\ClientChat\bin\Debug\ClientChat.exe.config
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ClientChat2\ClientChat\obj\Debug\ClientChat.exe
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ClientChat2\ClientChat\obj\Debug\ClientChat.pdb
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ClientChat2\ClientChat\obj\Debug\ClientChat.csprojResolveAssemblyReference.cache
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ClientChat2\ClientChat\obj\Debug\ClientChat.Chat.resources
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ClientChat2\ClientChat\obj\Debug\ClientChat.Form1.resources
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ClientChat2\ClientChat\obj\Debug\ClientChat.Properties.Resources.resources
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ClientChat2\ClientChat\obj\Debug\ClientChat.csproj.GenerateResource.Cache
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ClientChat2\ClientChat\bin\Debug\ClientChat.exe
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ClientChat2\ClientChat\bin\Debug\ClientChat.pdb
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat3\ClientChat\bin\Debug\ClientChat.exe.config
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat3\ClientChat\bin\Debug\ClientChat.exe
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat3\ClientChat\bin\Debug\ClientChat.pdb
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat3\ClientChat\obj\Debug\ClientChat.csprojResolveAssemblyReference.cache
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat3\ClientChat\obj\Debug\ClientChat.Chat.resources
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat3\ClientChat\obj\Debug\ClientChat.Form1.resources
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat3\ClientChat\obj\Debug\ClientChat.Properties.Resources.resources
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat3\ClientChat\obj\Debug\ClientChat.csproj.GenerateResource.Cache
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat3\ClientChat\obj\Debug\ClientChat.csproj.CoreCompileInputs.cache
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat3\ClientChat\obj\Debug\ClientChat.exe
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat3\ClientChat\obj\Debug\ClientChat.pdb
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat3\ClientChat\obj\Debug\ClientChat.Resoconto.resources
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat5\ClientChat\bin\Debug\ClientChat.exe.config
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat5\ClientChat\bin\Debug\ClientChat.exe
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat5\ClientChat\bin\Debug\ClientChat.pdb
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat5\ClientChat\obj\Debug\ClientChat.csprojResolveAssemblyReference.cache
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat5\ClientChat\obj\Debug\ClientChat.Chat.resources
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat5\ClientChat\obj\Debug\ClientChat.Form1.resources
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat5\ClientChat\obj\Debug\ClientChat.Properties.Resources.resources
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat5\ClientChat\obj\Debug\ClientChat.Resoconto.resources
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat5\ClientChat\obj\Debug\ClientChat.csproj.GenerateResource.Cache
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat5\ClientChat\obj\Debug\ClientChat.csproj.CoreCompileInputs.cache
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat5\ClientChat\obj\Debug\ClientChat.exe
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat5\ClientChat\obj\Debug\ClientChat.pdb
+C:\Users\tognoli.14161\Desktop\ClientChat6\ClientChat\bin\Debug\ClientChat.exe.config
+C:\Users\tognoli.14161\Desktop\ClientChat6\ClientChat\obj\Debug\ClientChat.exe
+C:\Users\tognoli.14161\Desktop\ClientChat6\ClientChat\obj\Debug\ClientChat.pdb
+C:\Users\tognoli.14161\Desktop\ClientChat6\ClientChat\bin\Debug\ClientChat.exe
+C:\Users\tognoli.14161\Desktop\ClientChat6\ClientChat\bin\Debug\ClientChat.pdb
+C:\Users\tognoli.14161\Desktop\ClientChat6\ClientChat\obj\Debug\ClientChat.csprojResolveAssemblyReference.cache
+C:\Users\tognoli.14161\Desktop\ClientChat6\ClientChat\obj\Debug\ClientChat.Chat.resources
+C:\Users\tognoli.14161\Desktop\ClientChat6\ClientChat\obj\Debug\ClientChat.Form1.resources
+C:\Users\tognoli.14161\Desktop\ClientChat6\ClientChat\obj\Debug\ClientChat.Properties.Resources.resources
+C:\Users\tognoli.14161\Desktop\ClientChat6\ClientChat\obj\Debug\ClientChat.Resoconto.resources
+C:\Users\tognoli.14161\Desktop\ClientChat6\ClientChat\obj\Debug\ClientChat.csproj.GenerateResource.Cache
+I:\quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat6\ClientChat\bin\Debug\ClientChat.exe.config
+I:\quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat6\ClientChat\obj\Debug\ClientChat.exe
+I:\quinta\TEP\Sockets\ServerChatProtocolloScuola\ClientChat6\ClientChat\obj\Debug\ClientChat.pdb
